@@ -1,0 +1,8 @@
+[submodule "config-repo"]
+	path = config-repo
+	url = https://github.com/paras16jul1991/config-repo.git
+	branch = master
+[submodule "configserver"]
+	path = configserver
+	url = https://github.com/paras16jul1991/configserver.git
+	branch = master
