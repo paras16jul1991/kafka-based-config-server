@@ -6,3 +6,7 @@
 	path = configserver
 	url = https://github.com/paras16jul1991/configserver.git
 	branch = master
+[submodule "configclient"]
+	path = configclient
+	url = https://github.com/paras16jul1991/configclient.git
+	branch = master
